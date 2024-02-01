@@ -44,7 +44,7 @@ Using a truth table, the corresponding circuit is then mapped out to determine w
 </p>
 
 <br />
-3. Result 9
+3. Number 9
 <br />
 <p align="center">
   <img src="Sources/3. 1001.png" height="200"><br />
@@ -59,7 +59,7 @@ Using a truth table, the corresponding circuit is then mapped out to determine w
 </p>
 
 <br />
-4. Result 7
+4. Number 7
 <br />
 <p align="center">
   <img src="Sources/4. 0111.png" height="200"><br />
