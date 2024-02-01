@@ -8,7 +8,7 @@ Using a truth table, the corresponding circuit is then mapped out to determine w
 <br />
 <p align="center">
   <img src="Sources/Truth Table.jpg" height="300"><br />
-  Truth Table for seven-segment display decoder<br />
+  Truth Table for seven-segment display decoder<br /><br />
   <img src="Sources/TestInput.png" height="300"><br />
   Input test<br />
 </p>
@@ -17,7 +17,7 @@ Using a truth table, the corresponding circuit is then mapped out to determine w
 1. Number 0
 <br />
 <p align="center">
-  <img src="Sources/1. 0000.png" height="300"><br />
+  <img src="Sources/1. 0000.png" height="200"><br />
   a = 1<br />
   b = 1<br />
   c = 1<br />
@@ -32,7 +32,7 @@ Using a truth table, the corresponding circuit is then mapped out to determine w
 2. Number 5
 <br />
 <p align="center">
-  <img src="Sources/2. 0101.png" height="300"><br />
+  <img src="Sources/2. 0101.png" height="200"><br />
   a = 1<br />
   b = 0<br />
   c = 1<br />
@@ -47,7 +47,7 @@ Using a truth table, the corresponding circuit is then mapped out to determine w
 3. Result 9
 <br />
 <p align="center">
-  <img src="Sources/3. 1001.png" height="300"><br />
+  <img src="Sources/3. 1001.png" height="200"><br />
   a = 1<br />
   b = 1<br />
   c = 1<br />
@@ -62,7 +62,7 @@ Using a truth table, the corresponding circuit is then mapped out to determine w
 4. Result 7
 <br />
 <p align="center">
-  <img src="Sources/4. 0111.png" height="300"><br />
+  <img src="Sources/4. 0111.png" height="200"><br />
   a = 1<br />
   b = 1<br />
   c = 1<br />
